@@ -1,5 +1,5 @@
 {
-  "name": "react-spinjs",
+  "name": "react-spinjs-new",
   "version": "4.0.0",
   "description": "A wrapper around spin.js, instantly useable",
   "main": "lib",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/qimingweng/react-spinjs"
+    "url": "https://github.com/gr8pathik/react-spinjs"
   },
   "keywords": [
     "react",
@@ -25,7 +25,7 @@
   "peerDependencies": {
     "react": "^0.14.0 || ^15.0.1"
   },
-  "author": "Qiming Weng",
+  "author": "Pathik Gandhi",
   "license": "MIT",
   "devDependencies": {
     "babel": "^5.6.14"
